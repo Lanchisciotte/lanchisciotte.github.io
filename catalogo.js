@@ -140,47 +140,103 @@ window.LANCHISCIOTTE_CATALOGO = {
         {
           "title": "Levante",
           "cover": "assets/rosa-dei-venti.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/levante"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Maestrale",
           "cover": "assets/rosa-dei-venti.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/maestrale"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Ostro",
           "cover": "assets/rosa-dei-venti.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/ostro"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Ostro (feat. Luca Sax)",
           "cover": "assets/rosa-dei-venti.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/ostro-featluca-sax"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Scirocco",
           "cover": "assets/rosa-dei-venti.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/scirocco"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Libeccio",
           "cover": "assets/rosa-dei-venti.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/libeccio"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Ponente",
           "cover": "assets/rosa-dei-venti.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/ponente"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Tramontana",
           "cover": "assets/rosa-dei-venti.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/tramontana"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Grecale",
           "cover": "assets/rosa-dei-venti.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/grecale"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
+        }
+      ]
+    },
+    {
+      "id": "ritorno-ad-itaca",
+      "title": "Ritorno ad Itaca",
+      "cover": "assets/ritorno-ad-itaca.jpg",
+      "description": "Soundtrack ispirata al viaggio di Ulisse.",
+      "date": "14 luglio 2025",
+      "duration": "",
+      "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca",
+      "tracks": [
+        {
+          "title": "Intro",
+          "cover": "assets/ritorno-ad-itaca.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/1-intro"
+        },
+        {
+          "title": "Il Mare",
+          "cover": "assets/ritorno-ad-itaca.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/2-il-mare"
+        },
+        {
+          "title": "Polifemo",
+          "cover": "assets/ritorno-ad-itaca.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/3-polifemo"
+        },
+        {
+          "title": "Circe",
+          "cover": "assets/ritorno-ad-itaca.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/4-circe"
+        },
+        {
+          "title": "Ade",
+          "cover": "assets/ritorno-ad-itaca.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/5-ade"
+        },
+        {
+          "title": "Sirene",
+          "cover": "assets/ritorno-ad-itaca.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/6-sirene"
+        },
+        {
+          "title": "Penelope, Telemaco e Argo",
+          "cover": "assets/ritorno-ad-itaca.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/7-penelope-telemaco-e-argo"
+        },
+        {
+          "title": "L’Arco di Ulisse",
+          "cover": "assets/ritorno-ad-itaca.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/8-larco-di-ulisse"
+        },
+        {
+          "title": "Outro (Il richiamo)",
+          "cover": "assets/ritorno-ad-itaca.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/9-outro-il-richiamo-wav"
         }
       ]
     }
