@@ -17,42 +17,73 @@ window.LANCHISCIOTTE_CATALOGO = {
         {
           "title": "Do dia à noite",
           "cover": "assets/brani/do-dia-a-noite.jpg",
-          "soundcloud": ""
+          "soundcloud": "https://soundcloud.com/lanchisciotte/do-dia-a-noite"
         },
         {
           "title": "Before the Sea",
           "cover": "assets/brani/before-the-sea.jpg",
-          "soundcloud": ""
+          "soundcloud": "https://soundcloud.com/lanchisciotte/before-the-sea"
         },
         {
           "title": "And so",
           "cover": "assets/brani/and-so.jpg",
-          "soundcloud": ""
+          "soundcloud": "https://soundcloud.com/lanchisciotte/and-so"
         },
         {
           "title": "Brilhante",
           "cover": "assets/brani/brilhante.jpg",
-          "soundcloud": ""
+          "soundcloud": "https://soundcloud.com/lanchisciotte/brilhante"
         },
         {
           "title": "Flor",
           "cover": "assets/brani/flor.jpg",
-          "soundcloud": ""
+          "soundcloud": "https://soundcloud.com/lanchisciotte/flor"
         },
         {
           "title": "Amaranto e oro",
           "cover": "assets/brani/amaranto-e-oro.jpg",
-          "soundcloud": ""
+          "soundcloud": "https://soundcloud.com/lanchisciotte/amaranto-e-oro"
         },
         {
           "title": "Ho una grossa valigia",
           "cover": "assets/brani/ho-una-grossa-valigia.jpg",
-          "soundcloud": ""
+          "soundcloud": "https://soundcloud.com/lanchisciotte/ho-una-grossa-valigia"
         },
         {
           "title": "Again, steelness",
           "cover": "assets/brani/again-steelness.jpg",
-          "soundcloud": ""
+          "soundcloud": "https://soundcloud.com/lanchisciotte/again-steelness"
+        }
+      ]
+    },
+    {
+      "id": "4-elementi",
+      "title": "4 Elementi",
+      "cover": "assets/4-elementi.jpg",
+      "description": "Acqua, Aria, Terra e Fuoco.",
+      "date": "",
+      "duration": "",
+      "soundcloud": "https://soundcloud.com/lanchisciotte/sets/4-elementi",
+      "tracks": [
+        {
+          "title": "Acqua",
+          "cover": "assets/4-elementi.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/acqua"
+        },
+        {
+          "title": "Aria",
+          "cover": "assets/4-elementi.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/aria"
+        },
+        {
+          "title": "Terra",
+          "cover": "assets/4-elementi.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/terra"
+        },
+        {
+          "title": "Fuoco",
+          "cover": "assets/4-elementi.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/fuoco"
         }
       ]
     }
