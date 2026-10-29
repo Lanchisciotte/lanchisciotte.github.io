@@ -1,0 +1,23 @@
+LANCHISCIOTTE — PRIMA VERSIONE DEL SITO
+
+Sito statico pronto per GitHub Pages: https://lanchisciotte.github.io
+
+CARICAMENTO INIZIALE
+1. Apri https://github.com/Lanchisciotte/lanchisciotte.github.io
+2. Clicca Add file > Upload files.
+3. Carica index.html, style.css, script.js, brani.json, gestisci-brani.html e la cartella assets con l'immagine.
+   NOTA: GitHub dal browser potrebbe non consentire di trascinare direttamente cartelle in ogni configurazione. Puoi trascinare i file e mantenere il percorso assets/rhodes-atmosfera.webp, oppure caricare l'immagine creando prima la cartella assets.
+4. Conferma con Commit changes. Attendi la pubblicazione.
+
+PER AGGIUNGERE UN BRANO SENZA CODICE
+1. Scarica dal repository il file brani.json attuale.
+2. Apri gestisci-brani.html sul computer (puoi scaricarlo dal repository).
+3. Seleziona brani.json e compila i campi del nuovo brano.
+4. Scarica brani.json aggiornato e caricalo nel repository sostituendo quello precedente.
+
+NOTE IMPORTANTI
+- I primi quattro brani sono esempi basati sui titoli del progetto: non hanno ancora link SoundCloud né copertine vere.
+- Per le copertine si può usare un URL pubblico o aggiungere i file nella cartella assets.
+- Non è ancora un CMS con pubblicazione automatica: il passaggio di caricamento su GitHub è necessario.
+- Nessuna modifica al vecchio Carrd.
+- Lo sfondo è un ritaglio della bozza visiva approvata: il testo della bozza non è incorporato nel sito.
