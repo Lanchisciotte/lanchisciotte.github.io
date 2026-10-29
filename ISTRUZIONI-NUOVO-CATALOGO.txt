@@ -1,0 +1,10 @@
+LANCHISCIOTTE - CATALOGO ESPANDIBILE
+
+1. Apri index.html per vedere il sito. La Home non è stata cambiata.
+2. Clicca su Musica, poi su Inchiostro e note: le copertine dei brani sono cliccabili.
+3. Per ora le copertine aprono la playlist SoundCloud, finché non si inseriscono i link diretti dei singoli.
+4. Apri gestisci-catalogo.html per aggiungere album, brani e link.
+5. Premi Scarica catalogo.js aggiornato. Sostituisci catalogo.js nella cartella del sito e su GitHub.
+6. Per ogni nuova immagine carica il file in assets/ (o assets/brani/) e indica il percorso esatto nella gestione.
+7. La pubblicazione su GitHub non è automatica: occorre caricare catalogo.js e le nuove immagini.
+8. I file esistenti index.html, style.css e la Home sono conservati; la sezione Musica ora legge il catalogo.

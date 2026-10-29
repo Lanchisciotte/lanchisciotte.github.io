@@ -1,0 +1,8 @@
+LANCHISCIOTTE — LE 9 COPERTINE ORIGINALI
+
+Apri index.html, vai a Musica e poi entra in Inchiostro e note.
+Sono state inserite tutte le nove copertine originali, senza immagini generiche.
+
+Per pubblicare: carica i file aggiornati su GitHub mantenendo la cartella assets/brani.
+La Home mantiene la stessa struttura e gli stessi file di prima.
+Il pulsante SoundCloud apre la playlist dell’album; non sono stati inventati link ai singoli.

@@ -1,0 +1,7 @@
+DISCOGRAFIA LANCHISCIOTTE
+
+Apri index.html e clicca sulla copertina di Inchiostro e note.
+
+Per pubblicare: carica in GitHub i file index.html, style.css, inchiostro-e-note.html e assets/inchiostro-e-note.jpg, mantenendo la cartella assets. Non occorre ricaricare gli altri file.
+
+Le nove copertine dei singoli sono per ora segnaposto: non sono state inventate. I link individuali SoundCloud non sono ancora disponibili: il pulsante dell’album apre la playlist ufficiale.

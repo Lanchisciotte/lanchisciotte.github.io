@@ -1,0 +1,11 @@
+LANCHISCIOTTE — ALBUM ORDINATI
+
+- La Home e la grafica sono invariate.
+- In Musica compaiono solo le schede degli album, con il pulsante "Guarda i brani dell’album".
+- Il pulsante apre la pagina dedicata album.html, che mostra le copertine dei brani.
+- Le copertine dei singoli aprono i link SoundCloud specifici.
+- catalogo.js e stato sostituito con quello aggiornato che hai inviato.
+
+PROVA LOCALE: estrai tutto lo ZIP, apri index.html in Firefox e vai alla sezione Musica.
+
+PUBBLICAZIONE: carica i file aggiornati nel repository GitHub mantenendo le cartelle assets/ e assets/brani/.

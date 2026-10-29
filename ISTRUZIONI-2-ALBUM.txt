@@ -1,0 +1,8 @@
+LANCHISCIOTTE — 2 ALBUM
+
+Apri index.html, vai su Musica, e apri 4 Elementi.
+La copertina 4 Elementi.jpg è usata per album e quattro brani, come richiesto.
+I link dei singoli Acqua, Aria, Terra e Fuoco sono volutamente vuoti: per ora aprono la playlist 4 Elementi; inseriscili con gestisci-catalogo.html.
+I nove collegamenti di Inchiostro e note sono stati conservati.
+
+Per pubblicare online: carica su GitHub catalogo.js e assets/4-elementi.jpg (nella cartella assets). Non è necessario sostituire altri file se la versione Album Ordinati è già pubblicata.
