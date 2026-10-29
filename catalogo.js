@@ -86,6 +86,47 @@ window.LANCHISCIOTTE_CATALOGO = {
           "soundcloud": "https://soundcloud.com/lanchisciotte/fuoco"
         }
       ]
+    },
+    {
+      "id": "moby-dick",
+      "title": "Moby Dick",
+      "cover": "assets/moby-dick.jpg",
+      "description": "Soundtrack ispirata a Moby Dick.",
+      "date": "23 luglio 2025",
+      "duration": "",
+      "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1",
+      "tracks": [
+        {
+          "title": "Moby Dick",
+          "cover": "assets/moby-dick.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/1-moby-dick"
+        },
+        {
+          "title": "Achab",
+          "cover": "assets/moby-dick.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/2-achab"
+        },
+        {
+          "title": "Pequod",
+          "cover": "assets/moby-dick.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/3-pequod"
+        },
+        {
+          "title": "Queequeg",
+          "cover": "assets/moby-dick.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/4-queequeg"
+        },
+        {
+          "title": "Chiamatemi Ismaele",
+          "cover": "assets/moby-dick.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/5-chiamatemi-ismaele1"
+        },
+        {
+          "title": "Abisso",
+          "cover": "assets/moby-dick.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/abisso"
+        }
+      ]
     }
   ]
 };
