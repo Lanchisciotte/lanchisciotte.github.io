@@ -196,47 +196,47 @@ window.LANCHISCIOTTE_CATALOGO = {
         {
           "title": "Intro",
           "cover": "assets/ritorno-ad-itaca.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/1-intro"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Il Mare",
           "cover": "assets/ritorno-ad-itaca.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/2-il-mare"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Polifemo",
           "cover": "assets/ritorno-ad-itaca.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/3-polifemo"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Circe",
           "cover": "assets/ritorno-ad-itaca.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/4-circe"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Ade",
           "cover": "assets/ritorno-ad-itaca.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/5-ade"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Sirene",
           "cover": "assets/ritorno-ad-itaca.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/6-sirene"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Penelope, Telemaco e Argo",
           "cover": "assets/ritorno-ad-itaca.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/7-penelope-telemaco-e-argo"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "L’Arco di Ulisse",
           "cover": "assets/ritorno-ad-itaca.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/8-larco-di-ulisse"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Outro (Il richiamo)",
           "cover": "assets/ritorno-ad-itaca.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/9-outro-il-richiamo-wav"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         }
       ]
     }
