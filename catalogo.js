@@ -99,32 +99,88 @@ window.LANCHISCIOTTE_CATALOGO = {
         {
           "title": "Moby Dick",
           "cover": "assets/moby-dick.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/1-moby-dick"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
         },
         {
           "title": "Achab",
           "cover": "assets/moby-dick.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/2-achab"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
         },
         {
           "title": "Pequod",
           "cover": "assets/moby-dick.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/3-pequod"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
         },
         {
           "title": "Queequeg",
           "cover": "assets/moby-dick.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/4-queequeg"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
         },
         {
           "title": "Chiamatemi Ismaele",
           "cover": "assets/moby-dick.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/5-chiamatemi-ismaele1"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
         },
         {
           "title": "Abisso",
           "cover": "assets/moby-dick.jpg",
-          "soundcloud": "https://soundcloud.com/lanchisciotte/abisso"
+          "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
+        }
+      ]
+    },
+    {
+      "id": "rosa-dei-venti",
+      "title": "Rosa dei Venti",
+      "cover": "assets/rosa-dei-venti.jpg",
+      "description": "Opera dedicata ai venti della famosa Rosa.",
+      "date": "11 settembre 2025",
+      "duration": "",
+      "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti",
+      "tracks": [
+        {
+          "title": "Levante",
+          "cover": "assets/rosa-dei-venti.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/levante"
+        },
+        {
+          "title": "Maestrale",
+          "cover": "assets/rosa-dei-venti.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/maestrale"
+        },
+        {
+          "title": "Ostro",
+          "cover": "assets/rosa-dei-venti.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/ostro"
+        },
+        {
+          "title": "Ostro (feat. Luca Sax)",
+          "cover": "assets/rosa-dei-venti.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/ostro-featluca-sax"
+        },
+        {
+          "title": "Scirocco",
+          "cover": "assets/rosa-dei-venti.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/scirocco"
+        },
+        {
+          "title": "Libeccio",
+          "cover": "assets/rosa-dei-venti.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/libeccio"
+        },
+        {
+          "title": "Ponente",
+          "cover": "assets/rosa-dei-venti.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/ponente"
+        },
+        {
+          "title": "Tramontana",
+          "cover": "assets/rosa-dei-venti.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/tramontana"
+        },
+        {
+          "title": "Grecale",
+          "cover": "assets/rosa-dei-venti.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/grecale"
         }
       ]
     }
