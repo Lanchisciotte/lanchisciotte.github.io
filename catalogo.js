@@ -288,4 +288,61 @@ window.LANCHISCIOTTE_CATALOGO = {
       ]
     }
   ]
+  ,"singles": [
+  {
+    "title": "Ballerina Farfalla",
+    "cover": "assets/singoli/ballerina-farfalla-1.jpg",
+    "soundcloud": "https://soundcloud.com/lanchisciotte/ballerina-farfalla-1"
+  },
+  {
+    "title": "Tamburo nel petto",
+    "cover": "assets/singoli/tamburo-nel-petto.jpg",
+    "soundcloud": "https://soundcloud.com/lanchisciotte/tamburo-nel-petto"
+  },
+  {
+    "title": "Danzante",
+    "cover": "assets/singoli/danzante.jpg",
+    "soundcloud": "https://soundcloud.com/lanchisciotte/danzante"
+  },
+  {
+    "title": "Canto di Primavera",
+    "cover": "assets/singoli/canto-di-primavera.jpg",
+    "soundcloud": "https://soundcloud.com/lanchisciotte/canto-di-primavera"
+  },
+  {
+    "title": "Il mio Mondo",
+    "cover": "assets/singoli/il-mio-mondo.jpg",
+    "soundcloud": "https://soundcloud.com/lanchisciotte/il-mio-mondo"
+  },
+  {
+    "title": "Dopo la Battaglia",
+    "cover": "assets/singoli/dopo-la-battaglia.jpg",
+    "soundcloud": "https://soundcloud.com/lanchisciotte/dopo-la-battaglia"
+  },
+  {
+    "title": "Pace",
+    "cover": "assets/singoli/pace.jpg",
+    "soundcloud": "https://soundcloud.com/lanchisciotte/pace"
+  },
+  {
+    "title": "Contatto",
+    "cover": "assets/singoli/contatto.jpg",
+    "soundcloud": "https://soundcloud.com/lanchisciotte/contatto"
+  },
+  {
+    "title": "Dalla sera al mattino",
+    "cover": "assets/singoli/dalla-sera-al-mattino.jpg",
+    "soundcloud": "https://soundcloud.com/lanchisciotte/dalla-sera-al-mattino"
+  },
+  {
+    "title": "Metamorfosi",
+    "cover": "assets/singoli/metamorfosi.jpg",
+    "soundcloud": "https://soundcloud.com/lanchisciotte/metamorfosi"
+  },
+  {
+    "title": "Luna nuova",
+    "cover": "assets/singoli/luna-nuova.jpg",
+    "soundcloud": "https://soundcloud.com/lanchisciotte/luna-nuova"
+  }
+]
 };
