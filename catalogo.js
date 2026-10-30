@@ -3,7 +3,7 @@ window.LANCHISCIOTTE_CATALOGO = {
     {
       "id": "inchiostro-e-note",
       "title": "Inchiostro e note",
-      "cover": "assets/inchiostro-e-note/copertina-album.jpg",
+      "cover": "assets/Album/inchiostro-e-note/copertina-album.jpg",
       "description": "Musica composta e registrata su miei scritti.",
       "date": "20 settembre 2026",
       "duration": "37:36",
@@ -11,47 +11,47 @@ window.LANCHISCIOTTE_CATALOGO = {
       "tracks": [
         {
           "title": "Ao vento",
-          "cover": "assets/inchiostro-e-note/ao-vento.jpg",
+          "cover": "assets/Album/inchiostro-e-note/ao-vento.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/ao-vento"
         },
         {
           "title": "Do dia à noite",
-          "cover": "assets/inchiostro-e-note/do-dia-a-noite.jpg",
+          "cover": "assets/Album/inchiostro-e-note/do-dia-a-noite.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/do-dia-a-noite"
         },
         {
           "title": "Before the Sea",
-          "cover": "assets/inchiostro-e-note/before-the-sea.jpg",
+          "cover": "assets/Album/inchiostro-e-note/before-the-sea.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/before-the-sea"
         },
         {
           "title": "And so",
-          "cover": "assets/inchiostro-e-note/and-so.jpg",
+          "cover": "assets/Album/inchiostro-e-note/and-so.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/and-so"
         },
         {
           "title": "Brilhante",
-          "cover": "assets/inchiostro-e-note/brilhante.jpg",
+          "cover": "assets/Album/inchiostro-e-note/brilhante.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/brilhante"
         },
         {
           "title": "Flor",
-          "cover": "assets/inchiostro-e-note/flor.jpg",
+          "cover": "assets/Album/inchiostro-e-note/flor.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/flor"
         },
         {
           "title": "Amaranto e oro",
-          "cover": "assets/inchiostro-e-note/amaranto-e-oro.jpg",
+          "cover": "assets/Album/inchiostro-e-note/amaranto-e-oro.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/amaranto-e-oro"
         },
         {
           "title": "Ho una grossa valigia",
-          "cover": "assets/inchiostro-e-note/ho-una-grossa-valigia.jpg",
+          "cover": "assets/Album/inchiostro-e-note/ho-una-grossa-valigia.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/ho-una-grossa-valigia"
         },
         {
           "title": "Again, steelness",
-          "cover": "assets/inchiostro-e-note/again-steelness.jpg",
+          "cover": "assets/Album/inchiostro-e-note/again-steelness.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/again-steelness"
         }
       ]
@@ -59,7 +59,7 @@ window.LANCHISCIOTTE_CATALOGO = {
     {
       "id": "4-elementi",
       "title": "4 Elementi",
-      "cover": "assets/4-elementi/copertina-album.jpg",
+      "cover": "assets/Album/4-elementi/copertina-album.jpg",
       "description": "Acqua, Aria, Terra e Fuoco.",
       "date": "",
       "duration": "",
@@ -67,22 +67,22 @@ window.LANCHISCIOTTE_CATALOGO = {
       "tracks": [
         {
           "title": "Acqua",
-          "cover": "assets/4-elementi/acqua.jpg",
+          "cover": "assets/Album/4-elementi/acqua.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/acqua"
         },
         {
           "title": "Aria",
-          "cover": "assets/4-elementi/aria.jpg",
+          "cover": "assets/Album/4-elementi/aria.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/aria"
         },
         {
           "title": "Terra",
-          "cover": "assets/4-elementi/terra.jpg",
+          "cover": "assets/Album/4-elementi/terra.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/terra"
         },
         {
           "title": "Fuoco",
-          "cover": "assets/4-elementi/fuoco.jpg",
+          "cover": "assets/Album/4-elementi/fuoco.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/fuoco"
         }
       ]
@@ -90,7 +90,7 @@ window.LANCHISCIOTTE_CATALOGO = {
     {
       "id": "moby-dick",
       "title": "Moby Dick",
-      "cover": "assets/moby-dick/copertina-album.jpg",
+      "cover": "assets/Album/moby-dick/copertina-album.jpg",
       "description": "Soundtrack ispirata a Moby Dick.",
       "date": "23 luglio 2025",
       "duration": "",
@@ -98,32 +98,32 @@ window.LANCHISCIOTTE_CATALOGO = {
       "tracks": [
         {
           "title": "Moby Dick",
-          "cover": "assets/moby-dick/copertina-album.jpg",
+          "cover": "assets/Album/moby-dick/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
         },
         {
           "title": "Achab",
-          "cover": "assets/moby-dick/copertina-album.jpg",
+          "cover": "assets/Album/moby-dick/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
         },
         {
           "title": "Pequod",
-          "cover": "assets/moby-dick/copertina-album.jpg",
+          "cover": "assets/Album/moby-dick/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
         },
         {
           "title": "Queequeg",
-          "cover": "assets/moby-dick/copertina-album.jpg",
+          "cover": "assets/Album/moby-dick/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
         },
         {
           "title": "Chiamatemi Ismaele",
-          "cover": "assets/moby-dick/copertina-album.jpg",
+          "cover": "assets/Album/moby-dick/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
         },
         {
           "title": "Abisso",
-          "cover": "assets/moby-dick/copertina-album.jpg",
+          "cover": "assets/Album/moby-dick/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/moby-dick-1"
         }
       ]
@@ -131,7 +131,7 @@ window.LANCHISCIOTTE_CATALOGO = {
     {
       "id": "rosa-dei-venti",
       "title": "Rosa dei Venti",
-      "cover": "assets/rosa-dei-venti/copertina-album.jpg",
+      "cover": "assets/Album/rosa-dei-venti/copertina-album.jpg",
       "description": "Opera dedicata ai venti della famosa Rosa.",
       "date": "11 settembre 2025",
       "duration": "",
@@ -139,47 +139,47 @@ window.LANCHISCIOTTE_CATALOGO = {
       "tracks": [
         {
           "title": "Levante",
-          "cover": "assets/rosa-dei-venti/copertina-album.jpg",
+          "cover": "assets/Album/rosa-dei-venti/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Maestrale",
-          "cover": "assets/rosa-dei-venti/copertina-album.jpg",
+          "cover": "assets/Album/rosa-dei-venti/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Ostro",
-          "cover": "assets/rosa-dei-venti/copertina-album.jpg",
+          "cover": "assets/Album/rosa-dei-venti/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Ostro (feat. Luca Sax)",
-          "cover": "assets/rosa-dei-venti/copertina-album.jpg",
+          "cover": "assets/Album/rosa-dei-venti/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Scirocco",
-          "cover": "assets/rosa-dei-venti/copertina-album.jpg",
+          "cover": "assets/Album/rosa-dei-venti/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Libeccio",
-          "cover": "assets/rosa-dei-venti/copertina-album.jpg",
+          "cover": "assets/Album/rosa-dei-venti/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Ponente",
-          "cover": "assets/rosa-dei-venti/copertina-album.jpg",
+          "cover": "assets/Album/rosa-dei-venti/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Tramontana",
-          "cover": "assets/rosa-dei-venti/copertina-album.jpg",
+          "cover": "assets/Album/rosa-dei-venti/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         },
         {
           "title": "Grecale",
-          "cover": "assets/rosa-dei-venti/copertina-album.jpg",
+          "cover": "assets/Album/rosa-dei-venti/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/rosa-dei-venti"
         }
       ]
@@ -187,7 +187,7 @@ window.LANCHISCIOTTE_CATALOGO = {
     {
       "id": "ritorno-ad-itaca",
       "title": "Ritorno ad Itaca",
-      "cover": "assets/ritorno-ad-itaca/copertina-album.jpg",
+      "cover": "assets/Album/ritorno-ad-itaca/copertina-album.jpg",
       "description": "Soundtrack ispirata al viaggio di Ulisse.",
       "date": "14 luglio 2025",
       "duration": "",
@@ -195,47 +195,47 @@ window.LANCHISCIOTTE_CATALOGO = {
       "tracks": [
         {
           "title": "Intro",
-          "cover": "assets/ritorno-ad-itaca/copertina-album.jpg",
+          "cover": "assets/Album/ritorno-ad-itaca/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Il Mare",
-          "cover": "assets/ritorno-ad-itaca/copertina-album.jpg",
+          "cover": "assets/Album/ritorno-ad-itaca/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Polifemo",
-          "cover": "assets/ritorno-ad-itaca/copertina-album.jpg",
+          "cover": "assets/Album/ritorno-ad-itaca/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Circe",
-          "cover": "assets/ritorno-ad-itaca/copertina-album.jpg",
+          "cover": "assets/Album/ritorno-ad-itaca/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Ade",
-          "cover": "assets/ritorno-ad-itaca/copertina-album.jpg",
+          "cover": "assets/Album/ritorno-ad-itaca/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Sirene",
-          "cover": "assets/ritorno-ad-itaca/copertina-album.jpg",
+          "cover": "assets/Album/ritorno-ad-itaca/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Penelope, Telemaco e Argo",
-          "cover": "assets/ritorno-ad-itaca/copertina-album.jpg",
+          "cover": "assets/Album/ritorno-ad-itaca/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "L’Arco di Ulisse",
-          "cover": "assets/ritorno-ad-itaca/copertina-album.jpg",
+          "cover": "assets/Album/ritorno-ad-itaca/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         },
         {
           "title": "Outro (Il richiamo)",
-          "cover": "assets/ritorno-ad-itaca/copertina-album.jpg",
+          "cover": "assets/Album/ritorno-ad-itaca/copertina-album.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         }
       ]
@@ -244,7 +244,7 @@ window.LANCHISCIOTTE_CATALOGO = {
       "id": "opera-for-gaza",
       "title": "Opera for Gaza",
       "kind": "opera",
-      "cover": "assets/opera-for-gaza/copertina-album.jpg",
+      "cover": "assets/Album/opera-for-gaza/copertina-album.jpg",
       "description": "Un’opera musicale di circa 28 minuti che riunisce sette composizioni dedicate a Gaza.",
       "duration": "circa 28 minuti",
       "date": "",
@@ -252,37 +252,37 @@ window.LANCHISCIOTTE_CATALOGO = {
       "tracks": [
         {
           "title": "Flotilla to Gaza",
-          "cover": "assets/opera-for-gaza/flotilla-to-gaza.jpg",
+          "cover": "assets/Album/opera-for-gaza/flotilla-to-gaza.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/flotilla-to-gaza"
         },
         {
           "title": "Gaza today (and our shame)",
-          "cover": "assets/opera-for-gaza/gaza-today.jpg",
+          "cover": "assets/Album/opera-for-gaza/gaza-today.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/gaza-today"
         },
         {
           "title": "Flotilla to Gaza again",
-          "cover": "assets/opera-for-gaza/flotilla-to-gaza-again.jpg",
+          "cover": "assets/Album/opera-for-gaza/flotilla-to-gaza-again.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/flotilla-to-gaza-again"
         },
         {
           "title": "Gaza today 2",
-          "cover": "assets/opera-for-gaza/gaza-today-2.png",
+          "cover": "assets/Album/opera-for-gaza/gaza-today-2.png",
           "soundcloud": "https://soundcloud.com/lanchisciotte/gaza-today-2"
         },
         {
           "title": "From Gaza to Beirut",
-          "cover": "assets/opera-for-gaza/from-gaza-to-beirut.jpg",
+          "cover": "assets/Album/opera-for-gaza/from-gaza-to-beirut.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/from-gaza-to-beirut"
         },
         {
           "title": "From Gaza to Beirut (AI Voice)",
-          "cover": "assets/opera-for-gaza/from-gaza-to-beirut-ai-voice.jpg",
+          "cover": "assets/Album/opera-for-gaza/from-gaza-to-beirut-ai-voice.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/from-gaza-to-beirut-ai-voice"
         },
         {
           "title": "Silence of Gaza's souls",
-          "cover": "assets/opera-for-gaza/silence-of-gazas-souls.jpeg",
+          "cover": "assets/Album/opera-for-gaza/silence-of-gazas-souls.jpeg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/silence-of-gazas-souls"
         }
       ]
