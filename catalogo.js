@@ -239,6 +239,53 @@ window.LANCHISCIOTTE_CATALOGO = {
           "soundcloud": "https://soundcloud.com/lanchisciotte/sets/ritorno-ad-itaca"
         }
       ]
+    },
+    {
+      "id": "opera-for-gaza",
+      "title": "Opera for Gaza",
+      "kind": "opera",
+      "cover": "assets/opera-for-gaza.jpg",
+      "description": "Un’opera musicale di circa 28 minuti che riunisce sette composizioni dedicate a Gaza.",
+      "duration": "circa 28 minuti",
+      "date": "",
+      "soundcloud": "https://soundcloud.com/lanchisciotte/opera-for-gaza",
+      "tracks": [
+        {
+          "title": "Flotilla to Gaza",
+          "cover": "assets/brani/flotilla-to-gaza.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/flotilla-to-gaza"
+        },
+        {
+          "title": "Gaza today (and our shame)",
+          "cover": "assets/brani/gaza-today.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/gaza-today"
+        },
+        {
+          "title": "Flotilla to Gaza again",
+          "cover": "assets/brani/flotilla-to-gaza-again.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/flotilla-to-gaza-again"
+        },
+        {
+          "title": "Gaza today 2",
+          "cover": "assets/brani/gaza-today-2.png",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/gaza-today-2"
+        },
+        {
+          "title": "From Gaza to Beirut",
+          "cover": "assets/brani/from-gaza-to-beirut.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/from-gaza-to-beirut"
+        },
+        {
+          "title": "From Gaza to Beirut (AI Voice)",
+          "cover": "assets/brani/from-gaza-to-beirut-ai-voice.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/from-gaza-to-beirut-ai-voice"
+        },
+        {
+          "title": "Silence of Gaza's souls",
+          "cover": "assets/brani/silence-of-gazas-souls.jpeg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/silence-of-gazas-souls"
+        }
+      ]
     }
   ]
 };

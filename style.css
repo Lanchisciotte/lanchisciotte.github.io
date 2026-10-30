@@ -18,3 +18,6 @@
 
 /* Catalogo album dinamico: senza modifiche alla Home */
 .album-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,460px),1fr));max-width:none;gap:24px}.album-card{grid-template-columns:minmax(140px,42%) 1fr}.album-card>img{aspect-ratio:1}.album-info{padding:clamp(16px,3vw,35px)}.album-info h3{font-size:clamp(24px,3vw,40px)}.song-cover-link{display:block}.song-cover-link:hover img{filter:brightness(1.13)}.song-cover-link:focus-visible{outline:3px solid #d4a0a0;outline-offset:-3px}.songs-grid .song-cover-link img{display:block;width:100%;aspect-ratio:1;object-fit:cover;border-radius:12px}@media(max-width:520px){.album-card{grid-template-columns:1fr}.album-card>img{width:100%}}
+
+/* Navigazione Album e opere / Singoli */
+.catalog-filters{display:flex;gap:12px;flex-wrap:wrap;margin-top:40px}.catalog-filter{border:1px solid #745257;background:#202325;color:#f2ede5;font:12px Arial,sans-serif;letter-spacing:1px;padding:14px 20px;cursor:pointer}.catalog-filter.active,.catalog-filter:hover{background:#84484e}.catalog-empty{color:#bbb4ab;margin:28px 0;font-size:17px}.album-list[hidden],.catalog-empty[hidden]{display:none!important}
