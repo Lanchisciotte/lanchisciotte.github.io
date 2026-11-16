@@ -53,6 +53,11 @@ window.LANCHISCIOTTE_CATALOGO = {
           "title": "Again, steelness",
           "cover": "assets/Album/inchiostro-e-note/again-steelness.jpg",
           "soundcloud": "https://soundcloud.com/lanchisciotte/again-steelness"
+        },
+        {
+          "title": "Inseguendoti in volo",
+          "cover": "assets/Album/inchiostro-e-note/inseguendoti-in-volo.jpg",
+          "soundcloud": "https://soundcloud.com/lanchisciotte/inseguendoti-in-volo"
         }
       ]
     },
